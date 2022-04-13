@@ -1,6 +1,6 @@
 public class AdultSwim {
 
-    private static final int TEST = 1;
+    private static final int TEST = 2;
 
     public static void main(String[] args) throws InterruptedException {
         System.out.println("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
