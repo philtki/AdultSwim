@@ -24,5 +24,6 @@ public class AdultSwim {
         System.out.println("    8888888                   88888888");
         System.out.println();
         Thread.sleep(10000);
+        System.out.println("hi");
     }
 }
